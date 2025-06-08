@@ -1,13 +1,13 @@
 # Airbnb-listing-Analysis
 Performed Exploratory data analysis of airbnb listing data on Jupyter Notebook using Python to uncover trends in price , location,reviews and roomtype based insights.The goal of this project is extract meaningful patterns that can help hosts optimize listings and guide data-driven business decisions.
 ## data set
-source : Inside Airbnb
-city: Newyork
-records : 20000+ listings
+* source : Inside Airbnb
+* city: Newyork
+* records : 20000+ listings
 ## Tools and Tchnologies
-Python (Pandas , Numpy)
-Visualization(Matplotlib,Seaborn)
-Environment : Jupyter notebook
+* Python (Pandas , Numpy)
+* Visualization(Matplotlib,Seaborn)
+* Environment : Jupyter notebook
 ## Objectives
 * Clean and preprocess raw airbnb listing data
 * Analyze pricing trends across neighbourhoods and roomtypes
@@ -16,6 +16,6 @@ Environment : Jupyter notebook
 * performed univariate and bivariate analysis of the data
 * discovered correlations between the numerical variables.
 # Insights
-Price shows a moderate positive corrlation (0.42) with no.of beds ,suggesting that lisitings with more beds tend to be higher price.
-Price  has verylow correlation with no.of reviews (-ve) and reviews per month ,indicating that popularity or review frequency doesn't directly impacting pricing.
-Availability shows minimal correlation with other variables , so it may be more influenced by host behavaiour or listing type.
+* Price shows a moderate positive corrlation (0.42) with no.of beds ,suggesting that lisitings with more beds tend to be higher price.
+* Price  has verylow correlation with no.of reviews (-ve) and reviews per month ,indicating that popularity or review frequency doesn't directly impacting pricing.
+* Availability shows minimal correlation with other variables , so it may be more influenced by host behavaiour or listing type.
