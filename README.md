@@ -16,3 +16,6 @@ Environment : Jupyter notebook
 * performed univariate and bivariate analysis of the data
 * discovered correlations between the numerical variables.
 # Insights
+Price shows a moderate positive corrlation (0.42) with no.of beds ,suggesting that lisitings with more beds tend to be higher price.
+Price  has verylow correlation with no.of reviews (-ve) and reviews per month ,indicating that popularity or review frequency doesn't directly impacting pricing.
+Availability shows minimal correlation with other variables , so it may be more influenced by host behavaiour or listing type.
