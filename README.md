@@ -4,8 +4,8 @@ Performed Exploratory data analysis of airbnb listing data on Jupyter Notebook u
 * source : Inside Airbnb
 * city: Newyork
 * records : 20000+ listings
-## Tools and Tchnologies
-* Python (Pandas , Numpy)
+## Tools and Technologies
+* Python (Pandas)
 * Visualization(Matplotlib,Seaborn)
 * Environment : Jupyter notebook
 ## Objectives
